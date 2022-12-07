@@ -1,5 +1,5 @@
 # API endpoints
------------------
+
 ## /auth/v1/signup
 #### Method: POST
 - Registers the user on supabase based on the form's information, and sends a confirmation email to the email address entered.
